@@ -1,0 +1,8 @@
+{
+  "enabled_commands": [
+    "test",
+    "compile",
+    "git_status",
+    "git_diff"
+  ]
+}
